@@ -31,7 +31,7 @@ export default function header() {
     return (
     <Header>
       
-      <Items href="https://github.com/elymiguel/learn-reactjs" target="_blank"><GitLogo src={srcLogoGit}/></Items>
+      <Items href="https://github.com/elymiguel/learn-reactjs/tree/main/reactapp" target="_blank"><GitLogo src={srcLogoGit}/></Items>
       <Items>Contact</Items>
       <Items>About</Items>
       
